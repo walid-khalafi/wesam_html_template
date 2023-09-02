@@ -14,7 +14,7 @@ Wesam HTML Template
 <br />
 <div align="center">
   <a href="https://github.com/walid-khalafi/wesam_html_template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/icon" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Wesam-HTML-Template</h3>
